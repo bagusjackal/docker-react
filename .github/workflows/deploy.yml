@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bagusjackal 
-bagusjackal
-/
-docker-react
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-docker-react/.github/workflows/deploy.yml
-@bagusjackal
-bagusjackal Create deploy.yml
-Latest commit a23a45d 25 minutes ago
- History
- 1 contributor
-131 lines (118 sloc)  4.48 KB
-   
 name: cicd-demo
 
 on:
